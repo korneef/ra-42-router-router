@@ -93,7 +93,6 @@ export default function App() {
           <Route path="/timeattack" element={<TimeAttackPage/>} />
           <Route path="/forza" element={<ForzaPage/>} />
         </Routes>
-
       </div>
     </div>
   );
