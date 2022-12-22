@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-42-router-router/static/css/main.711c7c54.css",
+    "main.js": "/ra-42-router-router/static/js/main.98b6015d.js",
+    "static/js/787.b614f34c.chunk.js": "/ra-42-router-router/static/js/787.b614f34c.chunk.js",
+    "index.html": "/ra-42-router-router/index.html",
+    "main.711c7c54.css.map": "/ra-42-router-router/static/css/main.711c7c54.css.map",
+    "main.98b6015d.js.map": "/ra-42-router-router/static/js/main.98b6015d.js.map",
+    "787.b614f34c.chunk.js.map": "/ra-42-router-router/static/js/787.b614f34c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.711c7c54.css",
+    "static/js/main.98b6015d.js"
+  ]
+}
